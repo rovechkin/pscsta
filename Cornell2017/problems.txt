@@ -1,0 +1,21 @@
+Challenges
+  
+Current Rank: N/A
+Solving Problems  
+Success Rate: 85.71% Max Score: 100 Solve Challenge
+Small Fezr  
+Success Rate: 31.82% Max Score: 40 Solve Challenge
+Large Fezr  
+Success Rate: 13.33% Max Score: 60 Solve Challenge
+Small Bermuda Triangle  
+Success Rate: 0.00% Max Score: 40 Solve Challenge
+Large Bermuda Triangle  
+Success Rate: 0.00% Max Score: 60 Solve Challenge
+Best place to sit  
+Success Rate: 100.00% Max Score: 100 Solve Challenge
+Small Concert Throne  
+Success Rate: 100.00% Max Score: 30 Solve Challenge
+Medium Concert Throne  
+Success Rate: 57.89% Max Score: 30 Solve Challenge
+Large Concert Throne  
+Success Rate: 9.09% Max Score: 40
